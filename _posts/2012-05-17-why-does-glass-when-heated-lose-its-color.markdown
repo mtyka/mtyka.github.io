@@ -17,17 +17,18 @@ You can see the swirls of colored glass inside this vessel, but they just appear
 
 Color in glass is created by dissolving  various salts in the glass, often of transition metal salts, which have vivid colors. Some examples:
 
-Compound  Color
-gold chloride dark red
-cobalt oxide  deep blue
-iron oxides greens, browns
-mix of mangnese, cobalt, iron black
-antimony oxides white
-uranium oxides  yellowish green
-selenium compounds  reds
-copper compounds  light blue
-tin compounds white
-lead/antimony yellow
+Compound | Color
+-----------------------|--------
+gold chloride | dark red
+cobalt oxide | deep blue
+iron oxides | greens, browns
+mix of mangnese, cobalt, iron | black
+antimony oxides | white
+uranium oxides | yellowish green
+selenium compounds | reds
+copper compounds | light blue
+tin compounds | white
+lead/antimony | yellow
 
 The colors arise because the electrons inside the orbitals of these compounds have quantum energy levels that have the right energetic gaps between them to absorb photons of wavelengths in the visible spectrum. Only photons with exactly the right energy will be absorbed. The absorbtion causes an electron to be promoted to a higher energy state. This electron can then return to its more stable state in a number of ways. It can either fall directly down to the original level creating a photon of the same wavelength as was absorbed previously or it can (if it has appropriate energy levels at it’s disposal) fall down in a number of smaller steps each emitting a photon of longer wavelengths (i.e. smaller) energy, say in the infrared spectrum, hence reducing the amount reflected light of the frequency previously absorbed.
 
