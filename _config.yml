@@ -4,7 +4,7 @@ email: mike.tyka@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Science Sculpture Artist, Biochemist, Googler, Glassblower, Creator of @groovikscube & @TheALTSpace
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://http://karpathy.github.io/" # the base hostname & protocol for your site
+url: "http://mtyka.github.io/" # the base hostname & protocol for your site
 twitter_username: mtyka 
 github_username:  mtyka
 
