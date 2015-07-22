@@ -21,6 +21,7 @@ Installing Caffe is really quite tricky, especially on Macs so quickly several s
   * [http://dreamingwith.us/](http://dreamingwith.us/)
   * [http://deepdreamr.com/](http://deepdreamr.com/)
   * [and docker images](https://registry.hub.docker.com/u/mjibson/deepdream/)
+  * [DeepDreamer MacOS App](http://realmacsoftware.com/deepdreamer) 
 
 # Derivatives / Exploration
 
