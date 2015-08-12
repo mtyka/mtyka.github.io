@@ -31,6 +31,7 @@ This whole thing went viral and of course everyone was now making their favorite
   * [Systematic exploration](https://www.flickr.com/photos/quasimondo/sets/72157655587555166) by @quasimondo
   * [Side-by-side comparisons](https://www.youtube.com/watch?t=16&v=32GnAI3nrsQ) of different networks by [Ville-Matias Heikkilä](http://www.pelulamu.net/viznut/)
   * [Exploring layer by layer](https://www.youtube.com/watch?v=dbQh1I_uvjo)
+  * [Exploring deepzooms layer by layer](https://users.ics.aalto.fi/perellm1/deep_dreams.shtml) 
   * [DeepDreamAnimator](https://github.com/samim23/DeepDreamAnim) by @samim who made some great [videos](https://vimeo.com/133275555).
   * [Surreal art](http://gizmodo.com/this-human-artist-is-making-hauting-paintings-with-goog-1716597566) by C.M. Kosemen
   * [Interesting thoughts and experiments](https://medium.com/@memoakten/deepdream-is-blowing-my-mind-6a2c8669c698) by Memo Akten
