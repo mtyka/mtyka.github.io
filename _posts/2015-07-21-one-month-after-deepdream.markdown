@@ -27,6 +27,7 @@ Installing Caffe is really quite tricky, especially on Macs so quickly several s
 
 This whole thing went viral and of course everyone was now making their favorite pictures or most hated politians into deepdreams. But cutting through the [kitsch](http://www.psmag.com/nature-and-technology/googles-deep-dream-is-future-kitsch) several folks went deeper (no pun intended) and made some interesting forays:
 
+  * [Comparisons of BVLC, MIT Places and CompCars](http://sprawledoctopus.com/deepdream/datasets/) 
   * [Fantastic single-class visualizations](http://auduno.com/post/125362849838/visualizing-googlenet-classes) by Audun m. Øygard
   * [Systematic exploration](https://www.flickr.com/photos/quasimondo/sets/72157655587555166) by @quasimondo
   * [Side-by-side comparisons](https://www.youtube.com/watch?t=16&v=32GnAI3nrsQ) of different networks by [Ville-Matias Heikkilä](http://www.pelulamu.net/viznut/)
