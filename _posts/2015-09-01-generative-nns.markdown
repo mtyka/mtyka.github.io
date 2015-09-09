@@ -5,7 +5,7 @@ date:   2015-09-07 00:03:44
 categories: code
 ---
 
-We're seeing a proliferation of generative neural networks of all kinds. Below is a colection of links to various examples of recent work in this field.
+We're seeing a proliferation of generative neural networks of all kinds, producing interesting content in various media. Below is a collection of links to various examples of recent work in this field. If you're aware of others (I'm sure there are plenty more), <a href="mailto:mike.tyka@gmail.com">email</a>/<a href="http://www.twitter.com/mtyka">tweet</a> me and I'll add it here.
 
 # Images
 
@@ -21,16 +21,14 @@ We're seeing a proliferation of generative neural networks of all kinds. Below i
 
   * [Classical Music with LSTMs](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/) including examples and code
   * [Folk Music with LSTMs](https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/) also see [part 2](https://highnoongmt.wordpress.com/2015/05/22/lisls-stis-recurrent-neural-networks-for-folk-music-generation/)
-  * [Commercial MI composer](http://www.synthtopia.com/content/2015/08/26/if-there-was-a-turing-test-for-music-artificial-intelligence-kulitta-might-pass-it/)
   * [More irish music](https://soundcloud.com/seaandsailor/sets/char-rnn-composes-irish-folk-music)
 
 # Text
 
   * [Char-RNN implementation of LSTM by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) with lots of exmaples.
-  * [Cooking recipes](https://gist.github.com/nylki/1efbaa36635956d35bcc)
   * [The Bible](http://cpury.github.io/learning-holiness/) also at least 2 twitter bots appeared: ([RNNBible](http://www.twitter.com/rnnbible) and [RNN_Bible](http://www.twitter.com/rnn_bible)
+  * [Cooking recipes](https://gist.github.com/nylki/1efbaa36635956d35bcc)
   * [Obama speeches](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0)
-  * [Eminem lyrics](https://soundcloud.com/mrchrisjohnson/recurrent-neural-shady)
-  * [NSF Research awards](http://karpathy.github.io/2015/05/21/rnn-effectiveness/#comment-2073825449)
   * [TED Talks](https://medium.com/@samim/ted-rnn-machine-generated-ted-talks-3dd682b894c0)
+  * [Eminem lyrics](https://soundcloud.com/mrchrisjohnson/recurrent-neural-shady)
 
