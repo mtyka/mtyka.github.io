@@ -36,7 +36,8 @@ This whole thing went viral and of course everyone was now making their favorite
   * [DeepDreamAnimator](https://github.com/samim23/DeepDreamAnim) by @samim who made some great [videos](https://vimeo.com/133275555).
   * [Surreal art](http://gizmodo.com/this-human-artist-is-making-hauting-paintings-with-goog-1716597566) by C.M. Kosemen
   * [Interesting thoughts and experiments](https://medium.com/@memoakten/deepdream-is-blowing-my-mind-6a2c8669c698) by Memo Akten
-
+  * [DeepDream typeset](http://gwiozda.net/content/ddAlphabet.php) - Gorgeous!
+ 
 And finally folks started also training novel networks too on new data sets, which is really the way to get more out of DeepDream.
 Some really nice work here by [Josh Nimoy](http://jtnimoy.com/)
 

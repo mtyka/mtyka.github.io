@@ -20,8 +20,9 @@ We're seeing a proliferation of generative neural networks of all kinds, produci
 # Music
 
   * [Classical Music with LSTMs](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/) including examples and code
-  * [Folk Music with LSTMs](https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/) also see [part 2](https://highnoongmt.wordpress.com/2015/05/22/lisls-stis-recurrent-neural-networks-for-folk-music-generation/)
+  * [Folk Music with LSTMs](https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/) also see [part 2](https://highnoongmt.wordpress.com/2015/05/22/lisls-stis-recurrent-neural-networks-for-folk-music-generation/) 
   * [More irish music](https://soundcloud.com/seaandsailor/sets/char-rnn-composes-irish-folk-music)
+  * [An entire set performed by an LSTM](http://www.eecs.qmul.ac.uk/~sturm/research/RNNIrishTrad/index.html)
 
 # Text
 
