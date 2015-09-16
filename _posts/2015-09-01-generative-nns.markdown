@@ -16,6 +16,7 @@ We're seeing a proliferation of generative neural networks of all kinds, produci
   * [Handwriting LSTM](http://www.cs.toronto.edu/~graves/handwriting.cgi) by Alex Graves
   * [Artistic style transfer](http://arxiv.org/pdf/1508.06576v1.pdf) and [Torch implementation of algorithm](https://github.com/jcjohnson/neural-style) by Justin Johnson
   * [Head shot transfer](http://people.csail.mit.edu/yichangshih/portrait_web/) with [video](https://t.co/kkZGdlmx8Q)
+  * [Generating faces](https://twitter.com/AlecRad/status/644028846925324288)
 
 # Music
 
@@ -23,6 +24,7 @@ We're seeing a proliferation of generative neural networks of all kinds, produci
   * [Folk Music with LSTMs](https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/) also see [part 2](https://highnoongmt.wordpress.com/2015/05/22/lisls-stis-recurrent-neural-networks-for-folk-music-generation/) 
   * [More irish music](https://soundcloud.com/seaandsailor/sets/char-rnn-composes-irish-folk-music)
   * [An entire set performed by an LSTM](http://www.eecs.qmul.ac.uk/~sturm/research/RNNIrishTrad/index.html)
+  * [Training to harmonize with a melody](http://web.mit.edu/felixsun/www/neural-music.html)
 
 # Text
 
