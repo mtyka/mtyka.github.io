@@ -30,7 +30,7 @@ In this style drift experiment i basically apply different styles iteratively to
 The drift is more striking when viewed as a video:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/-BpGMHTKTKA" frameborder="0" allowfullscreen></iframe>
-<br>
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/dy6JeQjwLNk" frameborder="0" allowfullscreen></iframe>
 
 
