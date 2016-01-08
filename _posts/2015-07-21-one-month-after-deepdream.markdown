@@ -44,4 +44,21 @@ Some really nice work here by [Josh Nimoy](http://jtnimoy.com/)
   * [Deepdream: Avoiding Kitsch](http://jtnimoy.com/blogs/projects/50616707-deepdream-avoiding-kitsch)
 
 
+# Video work
+
+  * [James “Pouff” Roberts video1](https://www.youtube.com/watch?v=DgPaCWJL7XI)
+  * [James “Pouff” Roberts video2](https://youtu.be/gIqKBBxmqho?t=1m3s)
+  * [James “Pouff” Roberts video3](https://www.youtube.com/watch?v=zrWrNRaFKu8)
+
+  * [Samim Winiger's music video](https://vimeo.com/133275555)
+
+  * [The band Years & Years: Music video](http://www.vevo.com/watch/years-years/Desire-(Gryffin-Remix)/GBUV71501214)
+
+
+
+# Style transfer
+
+  * [Video work](https://vimeo.com/139123754) by Gene Kogan
+
+
 
