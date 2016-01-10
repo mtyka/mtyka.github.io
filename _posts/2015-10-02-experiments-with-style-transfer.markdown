@@ -69,5 +69,24 @@ Making images large and using a patch works great but of course now the scale of
 </a>
 </center>
 
+I still get some strange artifacts I need to resolve but overall i'm happy with the higher res versions.
+
+## Style transfer zoom movie.
+
+Hey this worked really well for DeepDream - why not try it for style transfer?
+
+<iframe width="630" height="465" src="https://www.youtube.com/embed/4ZUyDff4qaw" frameborder="0" allowfullscreen></iframe>
+
+Other parameters:
+
+
+<a href="https://youtu.be/gOSCxHNvUFs">https://youtu.be/gOSCxHNvUFs</a>
+
+
+<a href="https://youtu.be/XxU5CbY3004">https://youtu.be/XxU5CbY3004</a>
+
+
+<a href="https://youtu.be/GXQqzC2oxDI">https://youtu.be/GXQqzC2oxDI</a>
+ 
 
 
