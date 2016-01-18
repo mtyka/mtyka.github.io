@@ -34,6 +34,8 @@ The drift is more striking when viewed as a video:
 <iframe width="420" height="315" src="https://www.youtube.com/embed/dy6JeQjwLNk" frameborder="0" allowfullscreen></iframe>
 </center>
 
+## Update: Jan 3rd 2016: 
+
 ## Images from top-level activations only
 
 The paper covers this but I thought it would be fun to try regenerating an image by using only the highest layer content activations with no style. Interestingly it's kind of a nice effect actually.
@@ -70,6 +72,7 @@ Making images large and using a patch works great but of course now the scale of
 </center>
 
 I still get some strange artifacts I need to resolve but overall i'm happy with the higher res versions.
+The code for this is a fork of [Anders Larsen's python implementation in DeepPy](https://github.com/andersbll/neural_artistic_style). I forked and extended his code to [add the multiscale, highres stuff](https://github.com/mtyka/neural_artistic_style).
 
 ## Style transfer zoom movie.
 
