@@ -54,4 +54,23 @@ Class #944, Artichoke
 
 
 
+## Fun with video
+
+Here's a little animation I call the "Animal parade"
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/2GDpJuvZsdY" frameborder="0" allowfullscreen></iframe>
+
+
+
+## Combining bilateral filters with style transfer
+
+These were made using bilateral class visualization using GoogLeNet (cello, violin, saxophone) and then had style transfer applied with the style coming from a natural picture (photo).
+
+<img src="/assets/classviz/instrument1.jpg">
+
+<img src="/assets/classviz/instrument2.jpg">
+
+<img src="/assets/classviz/instrument3.jpg">
+
+
 
