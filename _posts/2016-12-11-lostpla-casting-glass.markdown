@@ -5,7 +5,7 @@ date:   2016-12-11 00:00:00
 categories: art 
 ---
 
-For a few years now I have been experimenting with casting glass and occasionally bronze from 3D printed positive models. Specifically I use this to make sculptures of protein molcules rendered as their solvent accessible surface, which are created from their scientifically precise chrystallographic coordinates.
+For a few years now I have been experimenting with casting glass and occasionally bronze from 3D printed positive models. Specifically I use this technique to make sculptures of protein molecules rendered as their solvent accessible surface, which are created from their scientifically precise chrystallographic coordinates.
 
 <img src="/assets/casting/lysozyme.jpg">
 
@@ -29,24 +29,33 @@ I begin the process of casting a molecular sculpture by reviewing different poss
 - Is its size prohibitive in terms of equippment I have and time expenditure. 
 - Does it have structural features that make it unrealisticlly difficult ? 
 
+
 Once I've chosen a candidate I build an initial model using a molecular editor such as RasMol or PyMol. PyMol's volume function is quite good. MSMS also works. At this stage I think about the final presentation and mounting. Somehow a flat surface is needed or some sort of cradle. It's good to have some sort of idea even this early of how it's going to work, even though in practice I often change my mind later as I get to know the piece. For multipart pieces I also assess the fit and do other artistic edits in terms of choosing a conformation for flexible molecules (such as the carbohydrate in the lysozyme piece) which isn't rigidly determined. There I can manipulate the torsion angles to change the overall shape in a way that makes sense. Finally I calculate a solvent accessible area and save the coordinates and faces as an .stl or .obj file.
+
 
 These raw models I then load into Blender for further editing. In many cases I will make changes at this stage. First I have to decide on a scale, though in practice all my current work is at the same scale of 4 Angstromg/inch. The mixing of metric and imperial units is a bit funny, but it came from when I was making hand-formed copper models where my raw materials were in imperial units but the units of molecular modelling ar A or nm. Somehow this scale worked well for what I was doing and so it has become my standard.
 
+
 <img src="/assets/casting/blender.png">
 
+
 I also prepare the models for printing. Since macromolecules don't have a flat surface I almost always cut the model into two parts, creating a large surface for each half to be printed on. Choosing the cut plane is critical to minimize the number of overhangs during printing, which usually yield worse surface quality and waste support material. In some cases I use 3 or 4 cut planes, especially when the models get large, here I have to work carefully to take in account the printing volume and balance number of pieces vs printability and overhang avoidance.
+
 
 I then print each part on a typical PLA extrusion printer. Even though the print is just a throwaway positive I actually print it with a relatively thick skin and a reasonably large amount of fill density. This is for a number of reasons. In post processing, especially smoothing, I found having a thin skin to be problematic. Especially during solvent smoothing the model can collapse or distort if it does not have sufficient internal support. Furthermore a thin skin is more likely to have a small hole that might go undetected. This will later lead to ingress of plaster-slurry which can end up being embedded in the glass (see section below). A thicker skin will be easier to keep watertight.
 I almost always choose clear PLA, because it burns out the cleanest. Colored PLA (even that "white" variety) has additional additives which do not burn out well.
 Once all the parts are printed I glue them together, usually using a small amount of superglue first to keep them in a fixed position and then I seal the seam using a soldering iron. Generally I manipulate the PLA using soldering irons which work great when small parts of the model need to be repaired, fused, remove or added. I use a little PLA filament as "solder" if I need to add material. I have a couple of different tips in different shapes which I use like hot spatulas. I use these to smooth out any coarse artifacts on the model. Fine stuff is left for the next step.
 At this stage I also make sure different models fit together properly and I make any necessary modifications if not.
 
+
 <img src="/assets/casting/model_1.jpg">
+
 
 To get rid of the print lines I've tried a number of different techniques, many of which didn't really work. Obviously getting the highest possible print to start with is paramount. Thinner layer thicknesses are better and make smoothing much easier. Smoothing is important though. The plaster will readily pick up the fine detail of the print lines and those will later be evident int he glass/metal. Now is the easiest time to get rid of them.
 
+
 <img src="/assets/casting/print_lines.jpg">
+
 
 Generally these days I start by brushing on some Dichloromethane. This stuff is really very nasty and I do this work either in a fume hood or outside with a fan blowing away from me. I use a respirator with chemical filters, PLA/PLV hydrophilic gloves and full eye glasses. Do not use this chemical unless you've taken the proper safety precaustions!
 However I found no other solvent even remotely as good at smoothing as Dichloromethane. PLA is completely insoluble in Acetone. Due to the nastiness of Dichloromethane I've never attempted doing vapor smoothing, but the simple cold brush on works surprisingly great. Sometimes I do two "coats".
@@ -102,7 +111,7 @@ I then mix a second batch of plaster and pour it in. Generally I do both layers 
 
 
 Now that the mold is poured, I generally let it air dry for a few days. After the first 24 hrs I take off the box or container that held the plaster, aiding drying. 
-Next, we need to burn out the mold. I place the mold, upside-down, in the kiln, usually on top of a metal grating I've built. Underneigh I place a metal pan to catch the drippings. The pan is lined with some aluminum foil for easy cleaning. The burnout protocol plates at several temperatures. First 230 to dry the mold completely. Then at 500 to drive off all the chemically bound water and start melting the PLA. At the end of this stage the bulk of the PLA will have melted and dripped out into the pan, so I will open the kiln and empty the pan. The program then ascends to 700. At this temperature PLA will evaporate rapidly and carbon deposits will also oxidize away. I noticed that when I didn't go up to this temperature, some of the molten PLA mould soak into the plaster and then, upon cooling and contraction, cause the plaster to crack. However if the temperature is raised sufficiently, the PLA evaporates completely, thus not creating those stresses during cooling and many cracks are avoided. Some cracks still occur, but the resultant flashing can later be ground off.
+Next, we need to burn out the mold. I place the mold, upside-down, in the kiln, usually on top of a metal grating I've built. Underneigh I place a metal pan to catch the drippings. The pan is lined with some aluminum foil for easy cleaning. The burnout protocol plateaus at several temperatures. First 230 to dry the mold completely. Then at 500 to drive off all the chemically bound water and start melting the PLA. At the end of this stage the bulk of the PLA will have melted and dripped out into the pan, so I will open the kiln and empty the pan. The program then ascends to 700. At this temperature PLA will evaporate rapidly and carbon deposits will also oxidize away. I noticed that when I didn't go up to this temperature, some of the molten PLA mould soak into the plaster and then, upon cooling and contraction, cause the plaster to crack. However if the temperature is raised sufficiently, the PLA evaporates completely, thus not creating those stresses during cooling and many cracks are avoided. Some cracks still occur, but the resultant flashing can later be ground off.
 
 
 | Time (Hr:Min)   | Temp(F) | Description                   |
@@ -167,31 +176,40 @@ piece and the glass chemistry.
 <img src="/assets/casting/controller.jpg">
 
 
-The melt time depends also on the geometry of the model and how the glass flows. There needs to be enough time for the glass to reach every part of the mold. The thinner parts of the mold are the more time that takes, however it depends also on other factors, The pressure at the bottom of the mold is much larger than at the top so glass will flow faster, generally. There is no hard science here, just experience and guessing. I usually err on the side of longer, just to be sure. However longer also means the mold spends more time at the highest temperature which weakens the plaster and stresses the mold.
-I also plan to check the kiln 30 minutes or so before the temperature is scheduled to drop again. It is relatively safe to open the kiln, since the glass is molten and can't suffer thermal cold shock. However you are starting into a 1500F hell hole so protective gloves and a face shield are a must. The infrared radiation is super intense and singes easily. I always try and place the mold in such a way that I can see if the mold is full even if the door is just slightly cracked to minimize exposure (Though at least on one occasion I had to fix a problem inside the kiln at top temperature and had to reach in with kevlar gloves and manipulate a fallen flowerpot - I don't recommend it). If after the inspection the mold isn't full I can extend the melt time and, if required, add more glass.
+The melt time depends also on the geometry of the model and how the glass flows. There needs to be enough time for the glass to reach every part of the mold. The thinner parts of the mold are the more time that takes, however it depends also on other factors. The pressure at the bottom of the mold is much larger than at the top so glass will flow faster, generally. There is no hard science here, just experience and guessing. I usually err on the side of longer, just to be sure. However longer also means the mold spends more time at the highest temperature which weakens the plaster and stresses the mold.
+I also plan to check the kiln 30 minutes or so before the temperature is scheduled to drop again. It is relatively safe to open the kiln, since the glass is molten and can't suffer thermal cold shock. However you are staring into a 1500F hell hole so protective gloves and a face shield are a must. The infrared radiation is super intense. I always try and place the mold in such a way that I can see if the mold is full even if the door is just slightly cracked to minimize exposure (Though at least on one occasion I had to fix a problem inside the kiln at top temperature and had to reach in with kevlar gloves and manipulate a fallen flowerpot - I don't recommend it). If after the inspection the mold isn't full I can extend the melt time and, if required, add more glass.
 Once the program moves into its annealing phase I try not to open the kiln anymore until the program is completely done. There is literally nothing to be done, the glass is solid anyway and opening it risks cold shock and cracks.
 
 
 <img src="/assets/casting/demolding_1.jpg">
 
+
 After the cast is completely cold (i usually wait 24hrs after the program's end) I begin removing the mold material by this point it is quite brittle and it's easy to break it. If the cast shape is quite convex and thick, I usually just remove the mold dry by gently chiseling (with a wooden chisel) and knock on the plaster until it falls of. 
+
 
 <img src="/assets/casting/demolding_2.jpg">
 
+
 However if the mold is quite fragile or complex it is easy to break the glass at this point. To demold I soak the entire mold in a bucket of water. after a few hours the plaster will fall off almost by itself. I then clean the piece with water.
+
 
 <img src="/assets/casting/demolding_4.jpg">
 
+
 The next step is cold working. Using a dremel and a diamond bit I grind off the air vents, the sprues and any flashing. Once completed, wash the piece again and then let it dry for sandblasting. The sandblasting evens out the texture between the places the piece has been ground and other spots, giving a smooth even finish. It can also help reduce any print lines that are still visible.
 
+
 <img src="/assets/casting/coldworking.jpg">
+
 
 Sandblasting smoothes the glass but leaves a very white, scattering surface. Furthermore any moisture or oils from fingers will reduce light scattering and leave dark prints. To make the glass more translucent again it is then etched using a biflouride salt (like potassium biflouride). It is available in powder form from "His Glassworks" - again this is a quite hazardous substance. I work in a well ventilated environment with safety glasses and rubber gloves. 
 The powder is simply dissolved in water and the glass is placed in the solution for 10 minutes or so. Afterwards i dip the glass in a baking soda solution to neutralize the acid. The etching process leaves a white film behind (likely some insoluble compound of the silica and the acid). This needs to be scrubbed off. On of the easiest ways I found to do this is to use a pressure washer. I place the glass on the lawn outside, on an old towel and direct the pressure washer stream down wards onto the glass. This is quite effective removing the white deposits, even in hard to access crevices and pits.
 Obviously if the glass is quite thin and fragile using the pressure washer method is dangerous and may crack the glass. In that case using a stiff brush, like a toothbrush makes more sense.
 
+
 <img src="/assets/casting/lysozyme.jpg">
 <img src="http://www.miketyka.com/projects/kiss/img1.jpg">
+
 
 To see more pieces check out <a href="http://www.miketyka.com/">my website</a>
 
