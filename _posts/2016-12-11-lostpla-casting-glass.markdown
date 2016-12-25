@@ -21,19 +21,19 @@ I begin the process of casting a molecular sculpture by reviewing different poss
 
 - Do I find it aesthetically pleasing ? 
 - Is there symmetry in quaternary structure, or a regularity to its fold?  
-- Does it have a particularily striking shape when rendered volumetrically or through ribbons ? 
+- Does it have a particularly striking shape when rendered volumetrically or through ribbons ? 
 
 *Practical feasibility*
 
 - Is it feasible to cast, process, mount etc. ?
-- Is its size prohibitive in terms of equippment I have and time expenditure. 
-- Does it have structural features that make it unrealisticlly difficult ? 
+- Is its size prohibitive in terms of equipment I have and time expenditure. 
+- Does it have structural features that make it unrealistically difficult ? 
 
 
 Once I've chosen a candidate I build an initial model using a molecular editor such as RasMol or PyMol. PyMol's volume function is quite good. MSMS also works. At this stage I think about the final presentation and mounting. Somehow a flat surface is needed or some sort of cradle. It's good to have some sort of idea even this early of how it's going to work, even though in practice I often change my mind later as I get to know the piece. For multipart pieces I also assess the fit and do other artistic edits in terms of choosing a conformation for flexible molecules (such as the carbohydrate in the lysozyme piece) which isn't rigidly determined. There I can manipulate the torsion angles to change the overall shape in a way that makes sense. Finally I calculate a solvent accessible area and save the coordinates and faces as an .stl or .obj file.
 
 
-These raw models I then load into Blender for further editing. In many cases I will make changes at this stage. First I have to decide on a scale, though in practice all my current work is at the same scale of 4 Angstromg/inch. The mixing of metric and imperial units is a bit funny, but it came from when I was making hand-formed copper models where my raw materials were in imperial units but the units of molecular modelling ar A or nm. Somehow this scale worked well for what I was doing and so it has become my standard.
+These raw models I then load into Blender for further editing. In many cases I will make changes at this stage. First I have to decide on a scale, though in practice all my current work is at the same scale of 4 Angstrom/inch. The mixing of metric and imperial units is a bit funny, but it came from when I was making hand-formed copper models where my raw materials were in imperial units but the units of molecular modeling are Angstrom or nanometers. Somehow this scale worked well for what I was doing and so it has become my standard.
 
 
 <img src="/assets/casting/blender.png">
@@ -57,7 +57,7 @@ To get rid of the print lines I've tried a number of different techniques, many 
 <img src="/assets/casting/print_lines.jpg">
 
 
-Generally these days I start by brushing on some Dichloromethane. This stuff is really very nasty and I do this work either in a fume hood or outside with a fan blowing away from me. I use a respirator with chemical filters, PLA/PLV hydrophilic gloves and full eye glasses. Do not use this chemical unless you've taken the proper safety precaustions!
+Generally these days I start by brushing on some Dichloromethane. This stuff is really very nasty and I do this work either in a fume hood or outside with a fan blowing away from me. I use a respirator with chemical filters, PLA/PLV hydrophilic gloves and full eye glasses. Do not use this chemical unless you've taken the proper safety precautions!
 However I found no other solvent even remotely as good at smoothing as Dichloromethane. PLA is completely insoluble in Acetone. Due to the nastiness of Dichloromethane I've never attempted doing vapor smoothing, but the simple cold brush on works surprisingly great. Sometimes I do two "coats".
 With each coat the diclo dissolves the surface layer of the PLA and the resolidifies, running into the cracks. It also conveniently seals any tiny holes in the print where print layers have failed to fuse properly.
 Another method is to spray on many coats of a lacquer, e.g. shellac. This has some problems though during burnout and can leave undesirable carbon residues in the mold which can be tricky to remove. With higher burnout temperatures though this has been less of a problem.
@@ -66,15 +66,15 @@ Another method is to spray on many coats of a lacquer, e.g. shellac. This has so
 <img src="/assets/casting/carbon_residue.jpg">
 
 
-One thing to be aware of though is that if you ever intend to make a rubber mold out of a printed positive, do not use Shellac. Shellac has residual alcohol in it and apparently is one of the very very few things that bonds to setting rubber. I found this out the hard way when my mold positive didnt want to come out of the mold, cracking the rubber. For direct into plaster positives it works ok though thick layers have a tendency to char and leave carbon deposits.
+One thing to be aware of though is that if you ever intend to make a rubber mold out of a printed positive, do not use Shellac. Shellac has residual alcohol in it and apparently is one of the very very few things that bonds to setting rubber. I found this out the hard way when my mold positive didn't want to come out of the mold, cracking the rubber. For direct into plaster positives it works ok though thick layers have a tendency to char and leave carbon deposits.
 
 
 <img src="/assets/casting/editing_the_mold.jpg">
 
 
-When the model is ready and smooth, I attach the sprues and air vents. Depending on whether it is a metal cast or a glass cast these have to be designed differently. Liquid metal has a very low viscosity and runs fast. This means that supply channels can be more narrow but air vents have to be a little wider sien the air is getting displaced much faster (almost instantly). Metal will also run up channels so not every part of the model has to have a supply line "from the top" so to speak. Often a single inlet is sufficient. In fact often a better quality is achieved when the cavity is filled from the bottom.
-Glass on the other hand is a completely different animal. It oozes, slowly, over the course of many hours. Much thicker than honey. This means supply channels want to be relatively wide (or it will take a very long time). Airvents can be very thin since the air has tons of time to escape.
-Also glass won't run upwards very much. On the bottom of the model, with sufficiently long melts, I found that the pressure is high enough to force glass upwards perhaps an inch or two at best. Higher Up on the model though it won't, so each chamber of the model needs at least a small supply sprue. THe size is determined by the size of the chamber to be filled, though I often er on the side of caution. Believe me it is a crushing feeling when you open your mold and everything went well except some little part of it didn't fill.
+When the model is ready and smooth, I attach the sprues and air vents. Depending on whether it is a metal cast or a glass cast these have to be designed differently. Liquid metal has a very low viscosity and runs fast. This means that supply channels can be more narrow but air vents have to be a little wider since the air is getting displaced much faster (almost instantly). Metal will also run up channels so not every part of the model has to have a supply line "from the top" so to speak. Often a single inlet is sufficient. In fact often a better quality is achieved when the cavity is filled from the bottom.
+Glass on the other hand is a completely different animal. It oozes, slowly, over the course of many hours. Much thicker than honey. This means supply channels want to be relatively wide (or it will take a very long time). Air vents can be very thin since the air has tons of time to escape.
+Also glass won't run upwards very much. On the bottom of the model, with sufficiently long melts, I found that the pressure is high enough to force glass upwards perhaps an inch or two at best. Higher Up on the model though it won't, so each chamber of the model needs at least a small supply sprue. The size is determined by the size of the chamber to be filled, though I often er on the side of caution. Believe me it is a crushing feeling when you open your mold and everything went well except some little part of it didn't fill.
 
 
 <img src="/assets/casting/didnt_fill.jpg">
@@ -97,13 +97,13 @@ To make the actual mold I've tried two different ways, both work and it sort of 
 The first involves building a wall around the piece that's stuck to the base plate. I often use corrugated plastic to make the barrier. I use wax and/or plasticine to seal the bottom of the wall. Since the piece is upside down, the wall needs to be about 1-2 inches taller than the highest point of the mold such that the mold later has a thick enough bottom.
 The second way involves taking a suitably sized cardboard box and a plastic bag. I line the inside of the cardboard with the bag, taping it to the side. Later I will fill the "bucket" with plaster and then lower the piece down into it from the top, hanging from the support board. In this case I usually use a long slender support so that I have space to add additional plaster if needed.
 
-Time to pour the plaster mix. For glass casting the mold mix is 1:1:1 silica:plaster:water, by weight. The silica is 200 mesh finely ground silica. It acts as a refractory material, i.e. it helps withstand the heat. The plaster is simple potter's plaster. I thoroughly mix these at 1:1 as dry powders first. This ensures very thorough mixing later so there aren't pockets of just plaster or just silica. To mix the plaster you always add the powder mix to a bucket of water. I guestimate the final amount I need for the mold. You need a little over half the final volume in water. Perhaps 60% or so. Better too much than too little, nothing more annoying than having to mix another batch in a rush. Eyeballing the amount of plaster needed I found fiendishly difficult. Either way, you start with a bucket of water and slowly add the powder mix until a dry island appears at the top of the water surface, which doesn't sink in anymore. It's important not to stir during that time. Usually by the time the last of the plaster mix is added there's a little island in the middle of the bucket surrounded by water. I usually wait a minute and let more of the air escape and the plaster soak through. Then, if it's a small amount I mix it with my hands or in case of larger amount, I use a drill with a mixer attachment. Avoid whisking in air, this is the opposite of pancake making. 
+Time to pour the plaster mix. For glass casting the mold mix is 1:1:1 silica:plaster:water, by weight. The silica is 200 mesh finely ground silica. It acts as a refractory material, i.e. it helps withstand the heat. The plaster is simple potter's plaster. I thoroughly mix these at 1:1 as dry powders first. This ensures very thorough mixing later so there aren't pockets of just plaster or just silica. To mix the plaster you always add the powder mix to a bucket of water. I guesstimate the final amount I need for the mold. You need a little over half the final volume in water. Perhaps 60% or so. Better too much than too little, nothing more annoying than having to mix another batch in a rush. Eyeballing the amount of plaster needed I found fiendishly difficult. Either way, you start with a bucket of water and slowly add the powder mix until a dry island appears at the top of the water surface, which doesn't sink in anymore. It's important not to stir during that time. Usually by the time the last of the plaster mix is added there's a little island in the middle of the bucket surrounded by water. I usually wait a minute and let more of the air escape and the plaster soak through. Then, if it's a small amount I mix it with my hands or in case of larger amount, I use a drill with a mixer attachment. Avoid whisking in air, this is the opposite of pancake making. 
 
 
 <img src="/assets/casting/face_coat.jpg">
 
 
-For many molds I will first do a face coat and then finish the mold in second pour. The first coat I pour on, and work into all the details using a brush, ladling it on and on until it becomes thick enough to stick, forming a thick-ish layer over the positive. This step ensures every crevice is filled and also reduces the amount of surface bubbles since working in the material with your hands or a brush tends to pop any bubbles or promote them rising to the surface. As the plaster hardens I rake in some grooves with my fingers to provide a good interlocking with the second, poured, layer. For most molds I set in some fiberglass around the outside and sometimes additional fibreglass ribbon if the mold is particularly slender. There is nothing worse than a cracked, burst mold with oozing glass emerging spilling in the kiln.
+For many molds I will first do a face coat and then finish the mold in second pour. The first coat I pour on, and work into all the details using a brush, ladling it on and on until it becomes thick enough to stick, forming a thickish layer over the positive. This step ensures every crevice is filled and also reduces the amount of surface bubbles since working in the material with your hands or a brush tends to pop any bubbles or promote them rising to the surface. As the plaster hardens I rake in some grooves with my fingers to provide a good interlocking with the second, poured, layer. For most molds I set in some fiberglass around the outside and sometimes additional fiberglass ribbon if the mold is particularly slender. There is nothing worse than a cracked, burst mold with oozing glass emerging spilling in the kiln.
 I then mix a second batch of plaster and pour it in. Generally I do both layers in one sitting. You don't want the face coat to dry out and then pour the second one.
 
 
@@ -111,7 +111,7 @@ I then mix a second batch of plaster and pour it in. Generally I do both layers 
 
 
 Now that the mold is poured, I generally let it air dry for a few days. After the first 24 hrs I take off the box or container that held the plaster, aiding drying. 
-Next, we need to burn out the mold. I place the mold, upside-down, in the kiln, usually on top of a metal grating I've built. Underneigh I place a metal pan to catch the drippings. The pan is lined with some aluminum foil for easy cleaning. The burnout protocol plateaus at several temperatures. First 230 to dry the mold completely. Then at 500 to drive off all the chemically bound water and start melting the PLA. At the end of this stage the bulk of the PLA will have melted and dripped out into the pan, so I will open the kiln and empty the pan. The program then ascends to 700. At this temperature PLA will evaporate rapidly and carbon deposits will also oxidize away. I noticed that when I didn't go up to this temperature, some of the molten PLA mould soak into the plaster and then, upon cooling and contraction, cause the plaster to crack. However if the temperature is raised sufficiently, the PLA evaporates completely, thus not creating those stresses during cooling and many cracks are avoided. Some cracks still occur, but the resultant flashing can later be ground off.
+Next, we need to burn out the mold. I place the mold, upside-down, in the kiln, usually on top of a metal grating I've built. Underneath I place a metal pan to catch the drippings. The pan is lined with some aluminum foil for easy cleaning. The burnout protocol plateaus at several temperatures. First 230 to dry the mold completely. Then at 500 to drive off all the chemically bound water and start melting the PLA. At the end of this stage the bulk of the PLA will have melted and dripped out into the pan, so I will open the kiln and empty the pan. The program then ascends to 700. At this temperature PLA will evaporate rapidly and carbon deposits will also oxidize away. I noticed that when I didn't go up to this temperature, some of the molten PLA mould soak into the plaster and then, upon cooling and contraction, cause the plaster to crack. However if the temperature is raised sufficiently, the PLA evaporates completely, thus not creating those stresses during cooling and many cracks are avoided. Some cracks still occur, but the resultant flashing can later be ground off.
 
 
 | Time (Hr:Min)   | Temp(F) | Description                   |
@@ -158,7 +158,7 @@ how thick the mold is. An example profile is below.
 |  3:00           |     300 |               Drying wet mold |
 |  2:00 (Hold)    |     300 |      Drive off chemical water | 
 |  6:00           |    1000 | Heating glass and mold        |
-|  2:00 (Hold)    |    1000 | Time to equilize temperature  |
+|  2:00 (Hold)    |    1000 | Time to equalize temperature  |
 |    10           |    1475 | Bring up to melting temp      |
 |  8:00 (Hold)    |    1475 | Allow glass to flow           | 
 |  2:00           |     890 | Crash temp to solidify piece  |
@@ -169,7 +169,7 @@ how thick the mold is. An example profile is below.
 
 
 I usually skip the first two steps if the mold is already dried and burned out.
-Be sure to check with your glass' manifacturer about the right protocol, it depends strongly on the type of 
+Be sure to check with your glass' manufacturer about the right protocol, it depends strongly on the type of 
 piece and the glass chemistry.
 
 
