@@ -57,16 +57,16 @@ To get rid of the print lines I've tried a number of different techniques, many 
 <img src="/assets/casting/print_lines.jpg">
 
 
-Generally these days I start by brushing on some Dichloromethane. This stuff is really very nasty and I do this work either in a fume hood or outside with a fan blowing away from me. I use a respirator with chemical filters, PLA/PLV hydrophilic gloves and full eye glasses. Do not use this chemical unless you've taken the proper safety precautions!
-However I found no other solvent even remotely as good at smoothing as Dichloromethane. PLA is completely insoluble in Acetone. Due to the nastiness of Dichloromethane I've never attempted doing vapor smoothing, but the simple cold brush on works surprisingly great. Sometimes I do two "coats".
-With each coat the diclo dissolves the surface layer of the PLA and the resolidifies, running into the cracks. It also conveniently seals any tiny holes in the print where print layers have failed to fuse properly.
+Generally these days I start by brushing on some Dichloromethane (DCM, or methylene chloride). This stuff is really very nasty and I do this work either in a fume hood or outside with a fan blowing away from me. I use a respirator with chemical filters, <a href="http://amo-csd.lbl.gov/downloads/Chemical%20Resistance%20of%20Gloves.pdf">PVA gloves</a> and full eye glasses. Do not use this chemical unless you've taken the proper safety precautions!
+However I found no other solvent even remotely as good at smoothing as Dichloromethane. Apparentl Tetrahydrofuran (THF) is ok, though I've not tried it. Acetone is completely useless, as PLA is completely insoluble in Acetone. Due to the nastiness of Dichloromethane I've never attempted doing vapor smoothing, but the simple cold brush on works surprisingly great. Sometimes I do two "coats".
+With each coat the Dichloromethane dissolves the surface layer of the PLA and the resolidifies, running into the cracks. It also conveniently seals any tiny holes in the print where print layers have failed to fuse properly.
 Another method is to spray on many coats of a lacquer, e.g. shellac. This has some problems though during burnout and can leave undesirable carbon residues in the mold which can be tricky to remove. With higher burnout temperatures though this has been less of a problem.
 
 
 <img src="/assets/casting/carbon_residue.jpg">
 
 
-One thing to be aware of though is that if you ever intend to make a rubber mold out of a printed positive, do not use Shellac. Shellac has residual alcohol in it and apparently is one of the very very few things that bonds to setting rubber. I found this out the hard way when my mold positive didn't want to come out of the mold, cracking the rubber. For direct into plaster positives it works ok though thick layers have a tendency to char and leave carbon deposits.
+One thing to be aware of though is that if you ever intend to make a rubber mold out of a printed positive, do not use Shellac. Shellac has residual alcohol in it and apparently is one of the very very few things that bonds to setting rubber. I found this out the hard way when my mold positive didn't want to come out of the mold, cracking the rubber. For direct-into-plaster positives it works ok though thick layers have a tendency to char and leave carbon deposits.
 
 
 <img src="/assets/casting/editing_the_mold.jpg">
@@ -125,6 +125,10 @@ Next, we need to burn out the mold. I place the mold, upside-down, in the kiln, 
 |   7:00          |      60 | Cool to room temperature      |
 
 
+
+
+
+
 <img src="/assets/casting/bricking_in_the_mold.jpg">
 
 
@@ -168,9 +172,14 @@ how thick the mold is. An example profile is below.
 |  6:00           |      75 |      ...                      |
 
 
+
+
+
 I usually skip the first two steps if the mold is already dried and burned out.
 Be sure to check with your glass' manufacturer about the right protocol, it depends strongly on the type of 
 piece and the glass chemistry.
+
+
 
 
 <img src="/assets/casting/controller.jpg">
