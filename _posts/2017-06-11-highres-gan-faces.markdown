@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Work in progress: Portraits of Imaginary people"
+title:  "Work in progress: Portraits of Imaginary People"
 date:   2017-06-06 00:00:00
 categories: machine learning 
 ---
