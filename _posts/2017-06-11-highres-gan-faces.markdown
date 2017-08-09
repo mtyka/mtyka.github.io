@@ -91,3 +91,9 @@ Some full size 4k ones (click to enlarge):
 
 Anyways, the goal is to make these into printable physical-world art pieces but I found in practice the resolution and detail has to be pretty high or it just doesn't look nice printed. Like I said, it's all work in flux and progress, more soon.
 
+## Followup: Method
+
+<p class="post-meta">Aug 8th, 2017</p>
+
+By popular request a [little more on the approach taken here](/machine/learning/2017/06/06/highres-gan-faces-followup.html).
+
