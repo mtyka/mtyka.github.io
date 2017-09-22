@@ -95,5 +95,5 @@ Anyways, the goal is to make these into printable physical-world art pieces but 
 
 <p class="post-meta">Aug 8th, 2017</p>
 
-By popular request a [little more on the approach taken here](/machine/learning/2017/06/06/highres-gan-faces-followup.html).
+By popular request a [little more on the approach taken here](/machine/learning/2017/08/09/highres-gan-faces-followup.html).
 
