@@ -60,6 +60,13 @@ case "$1" in
 esac
 exit 0
 ```
+After making the file, run 
+
+```
+sudo chmod +x /etc/init.d/myscript 
+sudo update-rc.d /etc/init.d/myscript defaults
+```
+
 Note your code will run as root.  Note this can also be a python program directly but i prefer the shell script to keep things more seperated.
 
 
