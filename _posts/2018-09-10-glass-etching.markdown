@@ -27,6 +27,8 @@ Recently I thought about what this stuff must be and came up with a better (albe
 Lead glass is a mixture of SiO4, PbO and K2O. Reacting with NH4HF2, these yield SiF4, PbF2 and KF. Now, the first and last are water soluble, but PbF2 is in fact a white, water-insoluble
 solid and thus most likely the white residue I find when etching my lead glass. 
 
+<img src="/assets/leadflouride.jpg">
+
 After some research I found that lead flouride (PbF2) is soluble in nitric and in hydrochloric acid.
 So I did two experiments to check my suspicion. First i etched a piece of lead glass and a piece of soda-lime glass. As expected, only the lead lead glass developed the residue.
 Second I got some muriatic (hydrochloric) acid from the hardware store (used to etch concrete). This is ~32% HCl. I soaked the residue covered piece of leadcrystal for ~ 1 hr and to my delight
