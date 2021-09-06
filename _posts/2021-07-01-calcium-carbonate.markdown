@@ -35,7 +35,7 @@ HCO₃⁻ + OH⁻  → CO₃²⁻
 illustration purposes i think it's more instructive to think of it the above way.)
 </sup>
 
-THe key is that unlike CO₂ these carbonate ions are charged and remendously soluble in water.
+The key is that unlike CO₂ these carbonate ions are charged and tremendously soluble in water.
 
 In pure water the availability of hydroxyl ions is very small, available only from the small amount of water that is always dissociated 
 into H⁺ and OH⁻. Any CO₂ that dissolves from the air quickly reacts with the available OH⁻ and the subsequent imbalance of H⁺ and OH⁻ results in the solution to become acidic. 
@@ -95,14 +95,14 @@ Since we've only removed one mol of carbon from the ocean, another unit of carbo
 
 Ok, but what if we generated new OH⁻ (i.e. alkalinity) in some way (for example using electrochemistry, like 
 the [Chlor Alkali](https://en.wikipedia.org/wiki/Chloralkali_process) process or by mining alkaline minerals) - could we use those to precipitate CaCO₃ and lock down CO₂ ?
-Yes, absolutely that would work. For every two mols of OH⁻ you could lock down one mol of carbon:
+Yes, absolutely that would work. For every two moles of OH⁻ you could lock down one mol of carbon:
 
 ```
  Ca²⁺ + CO₂ + 2OH⁻ → CaCO₃ + H₂O
 ```
 
 But, wait! There's an even better thing you could do. You could simply add the alkalinity to the ocean and *not* precipitate any calcium carbonate. As we discussed earlier that would
-raise the oceans capacity to absorb CO₂ by two mols! Now you're getting twice the bang for your buck: every mol of OH⁻ pulls down one mol of carbon! (actually the true number is a little lower, about 0.85 or so, for complicated reasons we won't go into here).
+raise the oceans capacity to absorb CO₂ by two moles! Now you're getting twice the bang for your buck: every mol of OH⁻ pulls down one mol of carbon! (actually the true number is a little lower, about 0.85 or so, for complicated reasons we won't go into here).
 Why ? Because in the ocean most of the carbon is stored as bicarbonate instead of carbonate, and to convert a CO₂ to HCO₃⁻ you only need *one* OH⁻:
 
 
