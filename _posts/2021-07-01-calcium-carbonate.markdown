@@ -13,7 +13,8 @@ ocean would subsequently cause it to absorb more CO₂ from the atmosphere.
 
 Unintuitively, it turns out that this is not the case due to the way in which the ocean carbon chemistry works. 
 Paradoxically, the exact opposite is true - precipitation of CaCO₃ in the ocean **releases** CO₂ to the atmosphere - how can this be ? 
-This fallacy appears frequently enough, surprisingly even in peer reviewed papers sometimes, that it bears illuminating. 
+This fallacy appears frequently enough, surprisingly sometimes even in peer reviewed papers[¹](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.202100134)ᐧ[²](https://pubs.acs.org/doi/full/10.1021/acssuschemeng.0c08561) 
+or startups[³](https://www.fastcompany.com/90642340/this-carbon-capture-tech-removes-co2-from-the-ocean-by-making-seashells), that it bears illuminating. 
 
 ## Inorganic carbon in the ocean
 
