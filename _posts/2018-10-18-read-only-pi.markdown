@@ -6,7 +6,7 @@ categories: hardware
 ---
 
 Raspberry Pis are perfect when building interactive art projects (e.g. [20 printers printing ML generated tweets](http://www.miketyka.com/?p=usandthem)
-and often it's nice to leave the Pi headless, i.e. without keyboard or monitor. And it's convenient to just power up the device to start it and pull the power when its time to shut it down. However there are two minor issues - how do you get your code to start without a login and how do you precent system corruption. Thanksfully there are solutions to that. 
+and often it's nice to leave the Pi headless, i.e. without keyboard or monitor. And it's convenient to just power up the device to start it and pull the power when its time to shut it down. However there are two minor issues - how do you get your code to start without a login and how do you prevent system corruption. Thanksfully there are solutions to that. 
 
 ## Startup: Starting your code on startup.
 
