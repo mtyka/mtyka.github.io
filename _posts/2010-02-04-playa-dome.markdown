@@ -88,11 +88,11 @@ When figuring out the triangulation of  the surfacei ran into some problems and 
 
 So the solution was to move the boundaries! Look at diagram 1 below. if we take a band 3 inches off the bigger triangle on each side (shown in yellow) and make it part of the smaller triangle, we end up with the same surface area covered around the big triangles and two new pieces for tiling. One is a smaller equalateral triangle with a height of 3′ 7 13/16″ and the other is a strange pentagonal shape consisting of a isocles triangle and a little 3 inch wide lip with a new height of 3′  11 9/16 ” . Now both heights are less then 4′ and everything works perfectly!
 
-<img src="/assets/dome/DesertDome_ReflectixTriangles1.JPG">
+<img src="/assets/dome/DesertDome_ReflectixTriangles1.jpg">
 
 The two shapes tile nicely one up one down onto the rolls creating a zigzag sort of pattern of cutting lines. A little more trimming is required to get the litle corners right. I actually didn’t cut those off until assembly time because it was useful to have a little leeway at the corner connections since the gluing and cutting process is far from precise. In total 10 blue shapes and 30 red shapes are needed. Oh plus two extra blue ones for the doors (i doubled up the door, see above).
 
-<img src="/assets/dome/DesertDome_ReflectixTriangles2.JPG">
+<img src="/assets/dome/DesertDome_ReflectixTriangles2.jpg">
 
 Finally, to prevent dust coming into the dome from underneigh i glued a skirt to the bottom of the dome out of strips of tarp which folded under the base struts into the dome and were held down with simple nail-shaped pegs through grommets in the tarp material. The tarp strips were about a foot wide or so (I have no pictures). Finally i layed down an old carpet inside the dome (found in a  dump) and a futon on top to make a comfortable living space for us (we were on the playa for two weeks after all).
 
