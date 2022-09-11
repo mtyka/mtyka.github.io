@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Grooviks Cube"
+date:   2009-01-01 00:03:44
+categories: make 
+---
+
+Some graphics projects I made when I was a teenager. This was on a 386 running MS-DOS.
+
+<iframe width="620" height="465" src="https://www.youtube.com/embed/hTO9kT11ONo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="465" src="https://www.youtube.com/embed/2nSJDbxKiuk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="465" src="https://www.youtube.com/embed/mT4uVTJdzCY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="465" src="https://www.youtube.com/embed/8FUleInl-yc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="620" height="465" src="https://www.youtube.com/embed/ShSQCv2AfLk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
