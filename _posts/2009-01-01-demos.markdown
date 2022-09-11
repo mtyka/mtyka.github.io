@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grooviks Cube"
+title:  "MS-DOS Effects in Borland Pascal"
 date:   2009-01-01 00:03:44
 categories: make 
 ---
