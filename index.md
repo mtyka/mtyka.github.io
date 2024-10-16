@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="mike.jpg">
+<img class="profile-picture" src="assets/mike_2023.jpg">
 
 
 # Michael D. Tyka, PhD

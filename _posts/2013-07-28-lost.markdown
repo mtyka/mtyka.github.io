@@ -6,8 +6,6 @@ categories: poem
 ---
 
 
-## Lost
-
 I once knew a man
 
 a confident leader
