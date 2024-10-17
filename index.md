@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="assets/mike_2023.jpg">
+<img class="profile-picture" src="assets/mike_2023.jpg" width="40%" height="40%">
 
 
 ## Research Interests
