@@ -6,15 +6,13 @@ layout: default
 <img class="profile-picture" src="assets/mike_2023.jpg">
 
 
-# Michael D. Tyka, PhD
 ## Research Interests
 
 I'm currently working as a research scientist at Google in Climate & Energy. I'm interested in ocean alkalinity enhancement and related technologies.
-
 I studied Biochemistry and Biotechnology at the University of Bristol and obtained my PhD in Biophysics in 2007. 
-I went on to work as a research fellow with Prof. David Baker at the University of Washington to study the structure of protein molecules. 
-I Google in 2012 and worked on creating a neuron-level map of fly and mouse brain tissue using computer vision and machine learning. In 2020 I joined the
-Climate and Energy team and have been doing research there since. 
+I went on to work as a research fellow with Prof. David Baker at the University of Washington to study the protein structure prediction. 
+I joined Google in 2012 and worked with Viren Jain on creating a neuron-level map of fly and mouse brain tissue using computer vision and machine learning. 
+In 2020 I joined the Climate and Energy team and have been doing research there since with Chris Van Arsdale and John Platt. 
 
 ## Research Experience
 
@@ -27,6 +25,39 @@ Climate and Energy team and have been doing research there since.
 * With Prof. W. Martin, Heinrich Heine UniversitaÌˆt, Duesseldorf â€œPhylogenetic analysis of mitochondrial genes in Arabidopsis thalianaâ€� (2001)
 
 ## Selected Publications 
+
+Zhou, Mengyang, Michael Tyka, David Ho, Elizabeth Yankovsky, Scott
+Bachman, Thomas Nicholas, Alicia Karspeck, and Matthew Long. 2024b.
+“Mapping the Global Variation in the Efficiency of Ocean Alkalinity
+Enhancement for Carbon Dioxide Removal.” Nat. Clim. Change. 
+[[Preprint]](https://www.researchsquare.com/article/rs-4124909/v1)
+[[Interactive]](https://carbonplan.org/research/oae-efficiency)
+
+He, Jing, and Michael D Tyka. 2023. “Limits and Co 2 Equilibration of
+Near-Coast Alkalinity Enhancement.” *Biogeosciences* 20 (1): 27–43.
+[[Fulltext]](https://bg.copernicus.org/articles/20/27/2023/bg-20-27-2023.html)
+
+Baran, Dror, M Gabriele Pszolla, Gideon D Lapidoth, Christoffer Norn,
+Orly Dym, Tamar Unger, Shira Albeck, Michael D Tyka, and Sarel J
+Fleishman. 2017. “Principles for Computational Design of Binding
+Antibodies.” [*Proceedings of the National Academy of Sciences* 114 (41):
+10900–10905.](https://doi.org/10.1073/pnas.1707171114)
+
+Khatib, Firas, Seth Cooper, Michael D Tyka, Kefan Xu, Ilya Makedon,
+Zoran Popović, David Baker, and Foldit Players. 2011. “Algorithm
+Discovery by Protein Folding Game Players.” [*Proceedings of the National
+Academy of Sciences* 108 (47): 18949–53. ](https://www.pnas.org/doi/full/10.1073/pnas.1115898108)
+[[PDF]](https://www.pnas.org/doi/epdf/10.1073/pnas.1115898108)
+
+Raman, Srivatsan, Oliver F Lange, Paolo Rossi, Michael Tyka, Xu Wang,
+James Aramini, Gaohua Liu, et al. 2010. “NMR Structure Determination for
+Larger Proteins Using Backbone-Only Data.” [*Science* 327 (5968): 1014–8.](https://www.science.org/doi/10.1126/science.1183649)
+[[PDF]](https://pmc.ncbi.nlm.nih.gov/articles/PMC2909653/pdf/nihms-211856.pdf)
+
+Januszewski, Michał, Jörgen Kornfeld, Peter H Li, Art Pope, Tim Blakely,
+Larry Lindsey, Jeremy Maitin-Shepard, Mike Tyka, Winfried Denk, and
+Viren Jain. 2018. “High-Precision Automated Reconstruction of Neurons
+with Flood-Filling Networks.” [*Nature Methods* 15 (8): 605–10.](https://www.nature.com/articles/s41592-018-0049-4)
 
 
 ## Education 

@@ -30,9 +30,6 @@ Capture by Pumping Surface Acidity to the Deep Ocean.” *Energy &
 Environmental Science* 15 (2): 786–98. 
 [[Fulltext]](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee01532j)
 
-Tyka, Michael, and Jing He. 2023. “Limits and Co2 Equilibration of
-Near-Coast Alkalinity Enhancement.” Copernicus Meetings.
-
 He, Jing, and Michael D Tyka. 2023. “Limits and Co 2 Equilibration of
 Near-Coast Alkalinity Enhancement.” *Biogeosciences* 20 (1): 27–43.
 [[Fulltext]](https://bg.copernicus.org/articles/20/27/2023/bg-20-27-2023.html)
@@ -66,27 +63,29 @@ Fall Meeting Abstracts*, 2022:GC32I–0713.
 Baran, Dror, M Gabriele Pszolla, Gideon D Lapidoth, Christoffer Norn,
 Orly Dym, Tamar Unger, Shira Albeck, Michael D Tyka, and Sarel J
 Fleishman. 2017. “Principles for Computational Design of Binding
-Antibodies.” *Proceedings of the National Academy of Sciences* 114 (41):
-10900–10905.
+Antibodies.” [*Proceedings of the National Academy of Sciences* 114 (41):
+10900–10905.](https://doi.org/10.1073/pnas.1707171114)
 
 Conway, Patrick, Michael D Tyka, Frank DiMaio, David E Konerding, and
 David Baker. 2014. “Relaxation of Backbone Bond Geometry Improves
-Protein Energy Landscape Modeling.” *Protein Science* 23 (1): 47–55.
+Protein Energy Landscape Modeling.” 
+[*Protein Science* 23 (1): 47–55.](https://onlinelibrary.wiley.com/doi/10.1002/pro.2389)
 
 Das, Rhiju, Bin Qian, Srivatsan Raman, Robert Vernon, James Thompson,
 Philip Bradley, Sagar Khare, et al. 2007. “Structure Prediction for
 Casp7 Targets Using Extensive All-Atom Refinement with Rosetta@ Home.”
-*Proteins: Structure, Function, and Bioinformatics* 69 (S8): 118–28.
+[*Proteins: Structure, Function, and Bioinformatics* 69 (S8): 118–28.](https://onlinelibrary.wiley.com/doi/10.1002/prot.21636)
 
 DiMaio, Frank, Michael D Tyka, Matthew L Baker, Wah Chiu, and David
 Baker. 2009. “Refinement of Protein Structures into Low-Resolution
-Density Maps Using Rosetta.” *Journal of Molecular Biology* 392 (1):
-181–90.
+Density Maps Using Rosetta.” 
+[*Journal of Molecular Biology* 392 (1):181–90.] (https://www.sciencedirect.com/science/article/abs/pii/S0022283609008341?via%3Dihub)
 
 Khatib, Firas, Seth Cooper, Michael D Tyka, Kefan Xu, Ilya Makedon,
 Zoran Popović, David Baker, and Foldit Players. 2011. “Algorithm
-Discovery by Protein Folding Game Players.” *Proceedings of the National
-Academy of Sciences* 108 (47): 18949–53.
+Discovery by Protein Folding Game Players.” [*Proceedings of the National
+Academy of Sciences* 108 (47): 18949–53. ](https://www.pnas.org/doi/full/10.1073/pnas.1115898108)
+[[PDF]](https://www.pnas.org/doi/epdf/10.1073/pnas.1115898108)
 
 Krieger, Elmar, Keehyoung Joo, Jinwoo Lee, Jooyoung Lee, Srivatsan
 Raman, James Thompson, Mike Tyka, David Baker, and Kevin Karplus. 2009.
@@ -134,7 +133,8 @@ Explicit Modeling of Metal Coordination Geometry. *Protein Science* 19
 
 Raman, Srivatsan, Oliver F Lange, Paolo Rossi, Michael Tyka, Xu Wang,
 James Aramini, Gaohua Liu, et al. 2010. “NMR Structure Determination for
-Larger Proteins Using Backbone-Only Data.” *Science* 327 (5968): 1014–8.
+Larger Proteins Using Backbone-Only Data.” [*Science* 327 (5968): 1014–8.](https://www.science.org/doi/10.1126/science.1183649)
+[[PDF]](https://pmc.ncbi.nlm.nih.gov/articles/PMC2909653/pdf/nihms-211856.pdf)
 
 Raman, Srivatsan, Robert Vernon, James Thompson, Michael Tyka, Ruslan
 Sadreyev, Jimin Pei, David Kim, et al. 2009a. “Prediction Report.”
@@ -182,12 +182,7 @@ Li, Peter H, Larry F Lindsey, Michał Januszewski, Mike Tyka, Jeremy
 Maitin-Shepard, Tim Blakely, and Viren Jain. 2019. “Automated
 Reconstruction of a Serial-Section Em Drosophila Brain with
 Flood-Filling Networks and Local Realignment.” *Microscopy and
-Microanalysis* 25 (S2): 1364–5.
-
-Mordvintsev, Alexander, Christopher Olah, and Mike Tyka. 2015a.
-“Deepdream.” *Google. Available at: Https://Web. Archive.
-Org/Web/20150708233542/Http://Googleresearch. Blogspot. Co.
-Uk/2015/07/Deepdrea M-Code-Example-for-Visualizing. Html*.
+Microanalysis* 25 (S2): 1364–5. [[Preprint]](https://www.biorxiv.org/content/10.1101/605634v3)
 
 Mordvintsev, Alexander, Christopher Olah, Mike Tyka, and others. n.d.
 “Dreaming of Emperors: The Occulted Geometry of a Sixteenth-Century
@@ -196,7 +191,7 @@ Images.”
 
 Alexander, Mordvintsev, Olah Christopher, and Tyka Mike. 2015.
 “Inceptionism: Going Deeper into Neural Networks.” *Google Research
-Blog* 2015.
+Blog* 2015. [[Link]](https://research.google/blog/inceptionism-going-deeper-into-neural-networks/)
 
 Sathanur, Arun V, Miao Sui, Vikram Jandhyala, Michael D Tyka, and Nicole
 A Deflaux. 2014. “Simulating Context-Driven Activity Cascades in Online
