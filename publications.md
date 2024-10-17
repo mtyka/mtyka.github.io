@@ -9,30 +9,33 @@ permalink: /publications/
 
 Yankovsky, Elizabeth, Mengyang Zhou, Michael Tyka, Scott Bachman, David
 Ho, Alicia Karspeck, and Matthew Long. 2024. “Impulse Response Functions
-as a Framework for Quantifying Ocean-Based Carbon Dioxide Removal.”
-*EGUsphere* 2024: 1–26.
+as a Framework for Quantifying Ocean-Based Carbon Dioxide Removal.
+[[Preprint]](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2697/egusphere-2024-2697.pdf)”
 
-Zhou, Mengyang, Scott D Bachman, Mike Tyka, Alicia Karspeck, David T Ho,
-and Matthew C Long. 2023. “Basin-Scale Variations of Ocean Alkalinity
-Enhancement Efficiency for Carbon Dioxide Removal.” In *AGU Fall Meeting
-Abstracts*, 2023:OS13C–1307. 1307.
+Tyka, Michael D. 2024. “Efficiency Metrics for Ocean Alkalinity
+Enhancement Under Responsive and Prescribed Atmosphere Conditions.”
+*EGUsphere* 2024: 1–18. 
+[[Preprint]](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2150/)
 
-Zhou, Mengyang, Michael D Tyka, Scott Bachman, Elizabeth Yankovsky,
-Alicia R Karspeck, David T Ho, and Matthew C Long. 2024a. “A Global
-Efficiency Map of Ocean Alkalinity Enhancement (Oae) for Co2 Removal.”
-Copernicus Meetings.
 
 Zhou, Mengyang, Michael Tyka, David Ho, Elizabeth Yankovsky, Scott
 Bachman, Thomas Nicholas, Alicia Karspeck, and Matthew Long. 2024b.
 “Mapping the Global Variation in the Efficiency of Ocean Alkalinity
-Enhancement for Carbon Dioxide Removal.” Nat. Clim. Change.
+Enhancement for Carbon Dioxide Removal.” Nat. Clim. Change. 
+[[Preprint]](https://www.researchsquare.com/article/rs-4124909/v1)
+[[Interactive]](https://carbonplan.org/research/oae-efficiency)
 
 Tyka, Michael D, Christopher Van Arsdale, and John C Platt. 2022. “CO 2
 Capture by Pumping Surface Acidity to the Deep Ocean.” *Energy &
-Environmental Science* 15 (2): 786–98.
+Environmental Science* 15 (2): 786–98. 
+[[Fulltext]](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee01532j)
 
 Tyka, Michael, and Jing He. 2023. “Limits and Co2 Equilibration of
 Near-Coast Alkalinity Enhancement.” Copernicus Meetings.
+
+He, Jing, and Michael D Tyka. 2023. “Limits and Co 2 Equilibration of
+Near-Coast Alkalinity Enhancement.” *Biogeosciences* 20 (1): 27–43.
+[[Fulltext]](https://bg.copernicus.org/articles/20/27/2023/bg-20-27-2023.html)
 
 Tyka, Michael, and Mengyang Zhou. 2024. “Differences in Calculated
 Oae-Efficiency Between the Cesm2/Marbl and Ecco-Darwin Circulation
@@ -41,25 +44,16 @@ Models.” *AGU24*.
 Bach, Lennart T, David T Ho, Philip W Boyd, and Michael D Tyka. 2023.
 “Toward a Consensus Framework to Evaluate Air–Sea Co2 Equilibration for
 Marine Co2 Removal.” *Limnology and Oceanography Letters* 8 (5): 685–91.
-
-He, Jing, and Michael D Tyka. 2023. “Limits and Co 2 Equilibration of
-Near-Coast Alkalinity Enhancement.” *Biogeosciences* 20 (1): 27–43.
+[[Fulltext]](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lol2.10330)
 
 Jin, Shijian, Michael Tyka, Cristian Rodriguez Martinez, Christopher
 Davis, Christopher Van Arsdale, and Antonio Papania-Davis. 2024.
 “Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and
-Waste Concrete Upcycling.” (Preprint)
+Waste Concrete Upcycling.” [[Preprint]](https://chemrxiv.org/engage/chemrxiv/article-details/66ccbc76a4e53c4876b0e974)
 
 Rackley, Steve A, Tingzhen Ming, Wei Li, Michael Tyka, Adrienne Sewel,
 Diarmaid Clery, George Dowson, et al. 2023. “Negative Emissions
 Technologies for Climate Change Mitigation.” Elsevier.
-
-
-Shaw, Cody, Mallory Ringham, Brendan Carter, Matthew Eisaman, and Mike
-Tyka. 2023. “Magnesium Hydroxide as an Alkalinity Source for Ocean
-Alkalinity Enhancement: The Importance of Formation Conditions and
-Material Properties.” In *AGU Fall Meeting Abstracts*, 2023:OS13B–1302.
-1302.
 
 Shaw, Cody, Mallory Ringham, Xi Lu, Brendan Carter, Matthew Eisaman, and
 Mike Tyka. 2022. “Understanding the Kinetics of Electrochemically
@@ -173,10 +167,6 @@ Song, David C Richardson, Jane S Richardson, and David Baker. 2011.
 “Alternate States of Proteins Revealed by Detailed Energy Landscape
 Mapping.” *Journal of Molecular Biology* 405 (2): 607–18.
 
-Tyka, Michael D. 2024. “Efficiency Metrics for Ocean Alkalinity
-Enhancement Under Responsive and Prescribed Atmosphere Conditions.”
-*EGUsphere* 2024: 1–18.
-
 Tyka, Michael D, Richard B Sessions, and Anthony R Clarke. 2007.
 “Absolute Free-Energy Calculations of Liquids Using a Harmonic Reference
 State.” *The Journal of Physical Chemistry B* 111 (32): 9571–80.
@@ -186,7 +176,7 @@ State.” *The Journal of Physical Chemistry B* 111 (32): 9571–80.
 Januszewski, Michał, Jörgen Kornfeld, Peter H Li, Art Pope, Tim Blakely,
 Larry Lindsey, Jeremy Maitin-Shepard, Mike Tyka, Winfried Denk, and
 Viren Jain. 2018. “High-Precision Automated Reconstruction of Neurons
-with Flood-Filling Networks.” *Nature Methods* 15 (8): 605–10.
+with Flood-Filling Networks.” [*Nature Methods* 15 (8): 605–10.](https://www.nature.com/articles/s41592-018-0049-4)
 
 Li, Peter H, Larry F Lindsey, Michał Januszewski, Mike Tyka, Jeremy
 Maitin-Shepard, Tim Blakely, and Viren Jain. 2019. “Automated
