@@ -5,6 +5,11 @@ layout: default
 
 <img class="profile-picture" src="assets/mike_2023.jpg" width="40%" height="40%">
 
+[Mastodon: [fediscience.org/@mtyka](https://fediscience.org/@mtyka)]
+[Bluesky: [mtyka.bsky.social](https://bsky.app/profile/mtyka.bsky.social)]
+[[LinkedIn](https://www.linkedin.com/in/miketyka/)]
+Twitter: [@mtyka](https://x.com/mtyka)
+
 
 ## Research Interests
 
@@ -16,13 +21,12 @@ In 2020 I joined the Climate and Energy team and have been doing research there 
 
 ## Research Experience
 
-* Google Exacycle Visiting Faculty Research Fellow (2012-2013) "Objective function parameter optimization for protein folding simulations" and 
-  "Flexible backbone design of antibodies"
+* Google Exacycle Visiting Faculty Research Fellow (2012-2013) "Objective function parameter optimization for protein folding simulations" and "Flexible backbone design of antibodies"
 * Henry Wellcome Research Fellow with Prof. D. Baker, U. of Washington, Seattle (2007-2011) "Massively scalable conformational space search for protein folding prediction" and  "Method development for protein structure prediction with Rosetta@Home"  
 * Graduate Research with Prof. A. R. Clarke and Dr. R. B. Sessions, University of Bristol: "Development of novel methods for free-energy calculations" (2002-2006)  
-* Worldwide University Network (WUM) fellowship: With Prof. D. Baker, U of Washington â€œDevelopment of parallel, genetic algorithms for protein structure predictionâ€� (2005)  
-* Nuffield Foundation Scholarship: With Prof. A. R. Clarke, U. of Bristol: â€œDevelopment of computer programs for ab initio protein structure prediction using Monte Carlo based methodsâ€� (2002)  
-* With Prof. W. Martin, Heinrich Heine UniversitaÌˆt, Duesseldorf â€œPhylogenetic analysis of mitochondrial genes in Arabidopsis thalianaâ€� (2001)
+* Worldwide University Network (WUM) fellowship: With Prof. D. Baker, U of Washington "Development of parallel, genetic algorithms for protein structure prediction" (2005)  
+* Nuffield Foundation Scholarship: With Prof. A. R. Clarke, U. of Bristol: "Development of computer programs for ab initio protein structure prediction using Monte Carlo based methods" (2002)  
+* With Prof. W. Martin, Heinrich Heine UniversitaÌˆt, Duesseldorf "Phylogenetic analysis of mitochondrial genes in Arabidopsis thaliana" (2001)
 
 ## Selected Publications 
 
