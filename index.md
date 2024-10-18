@@ -62,12 +62,16 @@ with Flood-Filling Networks.” [*Nature Methods* 15 (8): 605–10.](https://www
 
 ## Education 
 
-* PhD, Biochemistry, University of Bristol, with Prof. A. R. Clarke, â€œAbsolute Free Energy Calculations for Biomolecular Systemsâ€� (2003-2007)   
-* BSc with First Class Honours, Biochemistry with Biotechnology, U. of Bristol (2000 â€“ 2003\)  
-* A-Levels (6 'A' grades) in Physics, Chemistry, Biology, Mathematics, General Studies and German; English at GCSE (A), Culford School, Bury St. Edmunds, Suffolk (1998 â€“ 2000\)
+* PhD, Biochemistry, University of Bristol, with Prof. A. R. Clarke, "Absolute Free Energy Calculations for Biomolecular Systems" (2003-2007)   
+* BSc with First Class Honours, Biochemistry with Biotechnology, U. of Bristol (2000 - 2003)  
+* A-Levels (6 'A' grades) in Physics, Chemistry, Biology, Mathematics, General Studies and German; English at GCSE (A), Culford School, Bury St. Edmunds, Suffolk (1998 - 2000)
 
-## Programming experience
+## Engineering experience
 
+* 2020-2023 Staff Software Engineer at Google Inc. 
+  Ocean simulation, Research into negative emissions technologies, Ocean Alkalinity enhancement, Built and developed prototype systems for bipolar membrane dialysis (BPMED). 
+* 2017-2020 Senior Software Engineer at Google Inc.  
+  Focus on embedded devices, on-device machine learning, Tensorflow Lite. 
 * 2014-2017 Senior Software Engineer and Software Engineering Manager at Google Inc.   
   Full stack, focus on large distributed storage, serving, APIs, Visualization and Machine Learning.  
 * 2012-2013  Lead developer of CyrusMol: Interactive scientific supercomputing in the cloud using AppEngine and Google NativeClient (Python/JavaScript/C++) [http://code.google.com/p/cyrusmol](http://code.google.com/p/cyrusmol)  
