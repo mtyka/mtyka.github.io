@@ -34,10 +34,6 @@ He, Jing, and Michael D Tyka. 2023. “Limits and Co 2 Equilibration of
 Near-Coast Alkalinity Enhancement.” *Biogeosciences* 20 (1): 27–43.
 [[Fulltext]](https://bg.copernicus.org/articles/20/27/2023/bg-20-27-2023.html)
 
-Tyka, Michael, and Mengyang Zhou. 2024. “Differences in Calculated
-Oae-Efficiency Between the Cesm2/Marbl and Ecco-Darwin Circulation
-Models.” *AGU24*.
-
 Bach, Lennart T, David T Ho, Philip W Boyd, and Michael D Tyka. 2023.
 “Toward a Consensus Framework to Evaluate Air–Sea Co2 Equilibration for
 Marine Co2 Removal.” *Limnology and Oceanography Letters* 8 (5): 685–91.
@@ -56,6 +52,10 @@ Shaw, Cody, Mallory Ringham, Xi Lu, Brendan Carter, Matthew Eisaman, and
 Mike Tyka. 2022. “Understanding the Kinetics of Electrochemically
 Derived Magnesium Hydroxide for Ocean Alkalinity Enhancement.” In *AGU
 Fall Meeting Abstracts*, 2022:GC32I–0713.
+
+Tyka, Michael, and Mengyang Zhou. 2024. “Differences in Calculated
+Oae-Efficiency Between the Cesm2/Marbl and Ecco-Darwin Circulation
+Models.” *AGU24*.
 
 
 # Protein Structure, Biophysics, Biochemistry
@@ -102,7 +102,7 @@ Bioinformatics* 83 (8): 1385–1406.](https://onlinelibrary.wiley.com/doi/abs/10
 Leaver-Fay, Andrew, Matthew J O’meara, Mike Tyka, Ron Jacak, Yifan Song,
 Elizabeth H Kellogg, James Thompson, et al. 2013. “Scientific Benchmarks
 for Guiding Macromolecular Energy Function Improvement.” In *Methods in
-Enzymology*, 523:109–43. Academic Press.
+Enzymology*, 523:109–43. Academic Press. [PDF](https://miketyka.com/data/papers/B978-0-12-394292-0.00006-0.pdf)
 
 Leaver-Fay, Andrew, Michael Tyka, Steven M Lewis, Oliver F Lange, James
 Thompson, Ron Jacak, Kristian Kaufman, et al. 2011a. “Rhiju Das, Jens
@@ -117,16 +117,12 @@ O’Meara, Matthew J, Andrew Leaver-Fay, Michael D Tyka, Amelie Stein,
 Kevin Houlihan, Frank DiMaio, Philip Bradley, et al. 2015. “Combined
 Covalent-Electrostatic Model of Hydrogen Bonding Improves Structure
 Prediction with Rosetta.” [*Journal of Chemical Theory and Computation*
-11 (2): 609–22. ](https://pubs.acs.org/doi/10.1021/ct500864r)[PDF](assets/10.1021@ct500864r.pdf)
-
-Wang, Chu, Mike Tyka, Srivatsan Raman, Frank DiMaio, James Thompson,
-Daniel J Mandell, and Evangelos A Coutsias. n.d. “Loop Modeling
-Application.”
+11 (2): 609–22. ](https://pubs.acs.org/doi/10.1021/ct500864r)[PDF](https://miketyka.com/data/papers/10.1021@ct500864r.pdf)
 
 Wang, Chu, Robert Vernon, Oliver Lange, Michael Tyka, and David Baker. 2010. 
 Prediction of Structures of Zinc-Binding Proteins Through
 Explicit Modeling of Metal Coordination Geometry. *Protein Science* 19
-(3): 494–506.
+(3): 494–506. [PDF](pro.327.pdf)
 
 Raman, Srivatsan, Oliver F Lange, Paolo Rossi, Michael Tyka, Xu Wang,
 James Aramini, Gaohua Liu, et al. 2010. “NMR Structure Determination for
@@ -135,38 +131,33 @@ Larger Proteins Using Backbone-Only Data.” [*Science* 327 (5968): 1014–8.](h
 
 Raman, Srivatsan, Robert Vernon, James Thompson, Michael Tyka, Ruslan
 Sadreyev, Jimin Pei, David Kim, et al. 2009a. “Prediction Report.”
-*Proteins* 77 (9): 89–99.
-
-2009b. “Structure Prediction for Casp8 with All-Atom Refinement
-Using Rosetta.” *Proteins: Structure, Function, and Bioinformatics* 77
-(S9): 89–99.
-
+*Proteins* 77 (9): 89–99. [Fulltext](https://pmc.ncbi.nlm.nih.gov/articles/PMC3688471/)
 
 Wang, Ray Yu-Ruei, Yan Han, Kristina Krassovsky, William Sheffler,
 Michael Tyka, and David Baker. 2011. “Modeling Disordered Regions in
-Proteins Using Rosetta.” *PloS One* 6 (7): e22060.
+Proteins Using Rosetta.” *PloS One* 6 (7): e22060. [Fulltext](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022060)
 
 Song, Yifan, Michael Tyka, Andrew Leaver-Fay, James Thompson, and David
 Baker. 2011. “Structure-Guided Forcefield Optimization.” *Proteins:
-Structure, Function, and Bioinformatics* 79 (6): 1898–1909.
+Structure, Function, and Bioinformatics* 79 (6): 1898–1909.[Fulltext](https://www.researchgate.net/publication/51046712_Structure-guided_forcefield_optimization)
 
 Tyka, Michael D, Anthony R Clarke, and Richard B Sessions. 2006. “An
 Efficient, Path-Independent Method for Free-Energy Calculations.” *The
-Journal of Physical Chemistry B* 110 (34): 17212–20.
+Journal of Physical Chemistry B* 110 (34): 17212–20.[PDF](https://miketyka.com/data/papers/An_Efficient_Path-Independent_Method_for_Free-Ener.pdf)
 
 Tyka, Michael D, Kenneth Jung, and David Baker. 2012. “Efficient
 Sampling of Protein Conformational Space Using Fast Loop Building and
 Batch Minimization on Highly Parallel Computers.” *Journal of
-Computational Chemistry* 33 (31): 2483–91.
+Computational Chemistry* 33 (31): 2483–91.[PDF](https://miketyka.com/data/papers/jcc.23069.pdf)
 
 Tyka, Michael D, Daniel A Keedy, Ingemar André, Frank DiMaio, Yifan
 Song, David C Richardson, Jane S Richardson, and David Baker. 2011.
 “Alternate States of Proteins Revealed by Detailed Energy Landscape
-Mapping.” *Journal of Molecular Biology* 405 (2): 607–18.
+Mapping.” *Journal of Molecular Biology* 405 (2): 607–18.[PDF](https://miketyka.com/data/papers/mtyka_dkeedy_2010.pdf)
 
 Tyka, Michael D, Richard B Sessions, and Anthony R Clarke. 2007.
 “Absolute Free-Energy Calculations of Liquids Using a Harmonic Reference
-State.” *The Journal of Physical Chemistry B* 111 (32): 9571–80.
+State.” *The Journal of Physical Chemistry B* 111 (32): 9571–80.[PDF](https://miketyka.com/data/papers/Absolute_Free-Energy_Calculations_of_Liquids_Using.pdf)
 
 # Neuroscience, Machine Learning
 
@@ -174,17 +165,13 @@ Januszewski, Michał, Jörgen Kornfeld, Peter H Li, Art Pope, Tim Blakely,
 Larry Lindsey, Jeremy Maitin-Shepard, Mike Tyka, Winfried Denk, and
 Viren Jain. 2018. “High-Precision Automated Reconstruction of Neurons
 with Flood-Filling Networks.” [*Nature Methods* 15 (8): 605–10.](https://www.nature.com/articles/s41592-018-0049-4)
+[PDF](https://miketyka.com/data/papers/High-precision_automated_reconstruction_of_neurons.pdf)
 
 Li, Peter H, Larry F Lindsey, Michał Januszewski, Mike Tyka, Jeremy
 Maitin-Shepard, Tim Blakely, and Viren Jain. 2019. “Automated
 Reconstruction of a Serial-Section Em Drosophila Brain with
 Flood-Filling Networks and Local Realignment.” *Microscopy and
 Microanalysis* 25 (S2): 1364–5. [[Preprint]](https://www.biorxiv.org/content/10.1101/605634v3)
-
-Mordvintsev, Alexander, Christopher Olah, Mike Tyka, and others. n.d.
-“Dreaming of Emperors: The Occulted Geometry of a Sixteenth-Century
-Ottoman Manuscript and Its Reemergence in Neural Network Generated
-Images.”
 
 Alexander, Mordvintsev, Olah Christopher, and Tyka Mike. 2015.
 “Inceptionism: Going Deeper into Neural Networks.” *Google Research
