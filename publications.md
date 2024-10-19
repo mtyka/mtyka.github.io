@@ -91,13 +91,13 @@ Krieger, Elmar, Keehyoung Joo, Jinwoo Lee, Jooyoung Lee, Srivatsan
 Raman, James Thompson, Mike Tyka, David Baker, and Kevin Karplus. 2009.
 “Improving Physical Realism, Stereochemistry, and Side-Chain Accuracy in
 Homology Modeling: Four Approaches That Performed Well in Casp8.”
-*Proteins: Structure, Function, and Bioinformatics* 77 (S9): 114–22.
+[*Proteins: Structure, Function, and Bioinformatics* 77 (S9): 114–22.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2922016/)
 
 Lapidoth, Gideon D, Dror Baran, Gabriele M Pszolla, Christoffer Norn,
 Assaf Alon, Michael D Tyka, and Sarel J Fleishman. 2015. “Abdesign: A N
 Algorithm for Combinatorial Backbone Design Guided by Natural
-Conformations and Sequences.” *Proteins: Structure, Function, and
-Bioinformatics* 83 (8): 1385–1406.
+Conformations and Sequences.” [*Proteins: Structure, Function, and
+Bioinformatics* 83 (8): 1385–1406.](https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.24779)[PDF](https://www.researchgate.net/publication/272100985_AbDesign_An_algorithm_for_combinatorial_backbone_design_guided_by_natural_conformations_and_sequences_Combinatorial_Backbone_Design_in_Antibodies)
 
 Leaver-Fay, Andrew, Matthew J O’meara, Mike Tyka, Ron Jacak, Yifan Song,
 Elizabeth H Kellogg, James Thompson, et al. 2013. “Scientific Benchmarks
@@ -107,20 +107,17 @@ Enzymology*, 523:109–43. Academic Press.
 Leaver-Fay, Andrew, Michael Tyka, Steven M Lewis, Oliver F Lange, James
 Thompson, Ron Jacak, Kristian Kaufman, et al. 2011a. “Rhiju Das, Jens
 Meiler, Tanja Kortemme, Jeffrey J. Gray, Brian Kuhlman, David Baker, and
-Philip Bradley. Rosetta3: An Object-Oriented Software Suite for the
+Philip Bradley. [Rosetta3: An Object-Oriented Software Suite for the
 Simulation and Design of Macromolecules.” *Methods in Enzymology* 487:
-545–74.
+545–74. ](https://www.sciencedirect.com/science/article/abs/pii/B9780123812704000196)
+[PDF](https://web.stanford.edu/~rhiju/Rosetta3_MethodsEnzymology_LeaverFay_etal2011.pdf)
 
-Rhiju Das, Jens Meiler, Tanja Kortemme, Jeffrey J. Gray,
-Brian Kuhlman, David Baker, and Philip Bradley. Chapter
-Nineteen-Rosetta3: An Object-Oriented Software Suite for the Simulation
-and Design of Macromolecules.” *Computer Methods*, no. Part C: 545–74.
 
 O’Meara, Matthew J, Andrew Leaver-Fay, Michael D Tyka, Amelie Stein,
 Kevin Houlihan, Frank DiMaio, Philip Bradley, et al. 2015. “Combined
 Covalent-Electrostatic Model of Hydrogen Bonding Improves Structure
-Prediction with Rosetta.” *Journal of Chemical Theory and Computation*
-11 (2): 609–22.
+Prediction with Rosetta.” [*Journal of Chemical Theory and Computation*
+11 (2): 609–22. ](https://pubs.acs.org/doi/10.1021/ct500864r)[PDF](assets/10.1021@ct500864r.pdf)
 
 Wang, Chu, Mike Tyka, Srivatsan Raman, Frank DiMaio, James Thompson,
 Daniel J Mandell, and Evangelos A Coutsias. n.d. “Loop Modeling
