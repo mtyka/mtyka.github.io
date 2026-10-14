@@ -5,10 +5,9 @@ layout: default
 
 <img class="profile-picture" src="assets/mike_2023.jpg" width="40%" height="40%">
 
-[Mastodon: [fediscience.org/@mtyka](https://fediscience.org/@mtyka)]
 [Bluesky: [mtyka.bsky.social](https://bsky.app/profile/mtyka.bsky.social)]
 [[LinkedIn](https://www.linkedin.com/in/miketyka/)]
-Twitter: [@mtyka](https://x.com/mtyka)
+[Mastodon: [fediscience.org/@mtyka](https://fediscience.org/@mtyka)]
 
 
 ## Research Interests
