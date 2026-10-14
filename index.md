@@ -19,11 +19,15 @@ I went on to work as a research fellow with Prof. David Baker at the University 
 I joined Google in 2012 and worked with Viren Jain on creating a neuron-level map of fly and mouse brain tissue using computer vision and machine learning. 
 In 2020 I joined the Climate and Energy team and have been doing research there since with Chris Van Arsdale and John Platt. 
 
-## Research Experience
+## Research/SWE Experience
 
+* Visiting Scholar IPD Baker Lab (2026-)
+* Google Staff Researcher Climate & Energy Team (2020-).  Ocean simulation: Research into efficiency of Ocean Alkalinity Enhancement and related negative meission technologies. Working with Chris van Arsdale and John Platt.
+* Google Embeded Machine Learning, low-power on-device inference
+* Google Neuromancer Team (Connectomics research), Research SWE Manager (2013-2018) working with Viren Jain. Reporting to Blaise Aguera y Arcas. 
 * Google Exacycle Visiting Faculty Research Fellow (2012-2013) "Objective function parameter optimization for protein folding simulations" and "Flexible backbone design of antibodies"
-* Henry Wellcome Research Fellow with Prof. D. Baker, U. of Washington, Seattle (2007-2011) "Massively scalable conformational space search for protein folding prediction" and  "Method development for protein structure prediction with Rosetta@Home"  
-* Graduate Research with Prof. A. R. Clarke and Dr. R. B. Sessions, University of Bristol: "Development of novel methods for free-energy calculations" (2002-2006)  
+* Postdoc: Henry Wellcome Research Fellow with Prof. D. Baker, U. of Washington, Seattle (2007-2011) "Massively scalable conformational space search for protein folding prediction" and  "Method development for protein structure prediction with Rosetta@Home"  
+* PhD: Graduate Research with Prof. A. R. Clarke and Dr. R. B. Sessions, University of Bristol: "Development of novel methods for free-energy calculations" (2002-2006)  
 * Worldwide University Network (WUM) fellowship: With Prof. D. Baker, U of Washington "Development of parallel, genetic algorithms for protein structure prediction" (2005)  
 * Nuffield Foundation Scholarship: With Prof. A. R. Clarke, U. of Bristol: "Development of computer programs for ab initio protein structure prediction using Monte Carlo based methods" (2002)  
 * With Prof. W. Martin, Heinrich Heine UniversitaÌˆt, Duesseldorf "Phylogenetic analysis of mitochondrial genes in Arabidopsis thaliana" (2001)
