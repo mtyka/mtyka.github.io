@@ -21,7 +21,7 @@ In 2020 I joined the Climate and Energy team and have been doing research there 
 
 ## Research/SWE Experience
 
-* Visiting Scholar IPD Baker Lab (2026-current)
+* Visiting Scholar, Institute for Protein Design (IPD), Baker Lab (2026-current)
 * Google L6 Staff Researcher, Climate & Energy Team (2020-current).  Ocean simulation: Research into efficiency of Ocean Alkalinity Enhancement and related negative emission technologies. Working with Chris van Arsdale and John Platt.
 * Google L5 Senior SWE, Embedded Machine Learning
 * Google L5 Research SWE Manager (2013-2018), on Neuromancer Team (Connectomics research), working with Viren Jain. Reporting to Blaise Aguera y Arcas. 
