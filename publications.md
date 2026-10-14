@@ -7,21 +7,63 @@ permalink: /publications/
 
 # Climate Sciences, Ocean Biogeochemistry
 
+Zhou, Mengyang, Mary-Louise Timmermans, Elizabeth Yankovsky, Michael D
+Tyka, and Matthew C Long. “Global Intercomparison of Ocean-Based
+Geochemical Carbon Dioxide Removal Efficiencies.” (in press, *Nature*).
+
+Bach, Lennart T, Michael D Tyka, Bin Wang, and Katja Fennel. 2026.
+“Lethal by Design? Resolving Differences Between Experimental and
+Real-World Alkalinity Perturbations in Ocean Alkalinity Enhancement.”
+*Journal of Geophysical Research: Oceans* 131 (8).
+[[Fulltext]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023598)
+[[Preprint]](https://doi.org/10.70212/cdrxiv.2025457.v1)
+
+Tyka, Michael D, Mengyang Zhou, Elizabeth Yankovsky, and Dustin Carroll. 2026. 
+“Substantial Inter-Model Variation in OAE Efficiency Between the
+CESM2/MARBL and ECCO-Darwin Ocean Biogeochemistry Models.”
+*Biogeosciences* 23 (14): 4943–66.
+[[Fulltext]](https://bg.copernicus.org/articles/23/4943/2026/)
+[[PDF]](https://bg.copernicus.org/articles/23/4943/2026/bg-23-4943-2026.pdf)
+
+Jin, Shijian, Anna Lee Tonkovich, Cristian Rodriguez Martinez,
+Christopher E Davis, Michael D Tyka, Ray A Nagatani, Christopher Van
+Arsdale, and Antonio R Papania-Davis. 2026. “Offsetting Carbon Removal
+Costs: A Techno-Economic Analysis of Waste Concrete Upcycling Using
+E-OAE Byproducts.” *Green Chemistry* 28 (35): 14247–63.
+[[Fulltext]](https://pubs.rsc.org/en/content/articlelanding/2026/gc/d6gc02583h)
+[[Preprint]](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-gf8r3)
+
+Shaw, Cody, Mallory Ringham, Brendan R Carter, Michael D Tyka, and
+Matthew D Eisaman. 2025. “Using Magnesium Hydroxide for Ocean Alkalinity
+Enhancement: Elucidating the Role of Formation Conditions on Material
+Properties and Dissolution Kinetics.” *Frontiers in Climate* 7: 1616362.
+[[Fulltext]](https://www.frontiersin.org/articles/10.3389/fclim.2025.1616362/full)
+[[PDF]](https://www.frontiersin.org/articles/10.3389/fclim.2025.1616362/pdf)
+
+Xie, Yinghuan, Paul Spence, Stuart Corney, Michael D Tyka, and Lennart T
+Bach. 2025. “Effect of Model Resolution on Air–Sea CO2 Equilibration
+Timescales.” *Global Biogeochemical Cycles* 39 (10).
+[[Fulltext]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GB008482)
+
 Yankovsky, Elizabeth, Mengyang Zhou, Michael Tyka, Scott Bachman, David
-Ho, Alicia Karspeck, and Matthew Long. 2024. “Impulse Response Functions
-as a Framework for Quantifying Ocean-Based Carbon Dioxide Removal.
-[[Preprint]](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2697/egusphere-2024-2697.pdf)”
+Ho, Alicia Karspeck, and Matthew Long. 2025. “Impulse Response Functions
+as a Framework for Quantifying Ocean-Based Carbon Dioxide Removal.”
+*Biogeosciences* 22 (20): 5723–39.
+[[Fulltext]](https://bg.copernicus.org/articles/22/5723/2025/)
+[[PDF]](https://bg.copernicus.org/articles/22/5723/2025/bg-22-5723-2025.pdf)
 
-Tyka, Michael D. 2024. “Efficiency Metrics for Ocean Alkalinity
-Enhancement Under Responsive and Prescribed Atmosphere Conditions.”
-*EGUsphere* 2024: 1–18. 
-[[Preprint]](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2150/)
-
+Tyka, Michael D. 2025. “Efficiency Metrics for Ocean Alkalinity
+Enhancements Under Responsive and Prescribed Atmospheric pCO2
+Conditions.” *Biogeosciences* 22 (1): 341–53.
+[[Fulltext]](https://bg.copernicus.org/articles/22/341/2025/)
+[[PDF]](https://bg.copernicus.org/articles/22/341/2025/bg-22-341-2025.pdf)
 
 Zhou, Mengyang, Michael Tyka, David Ho, Elizabeth Yankovsky, Scott
-Bachman, Thomas Nicholas, Alicia Karspeck, and Matthew Long. 2024b.
+Bachman, Thomas Nicholas, Alicia Karspeck, and Matthew Long. 2025.
 “Mapping the Global Variation in the Efficiency of Ocean Alkalinity
-Enhancement for Carbon Dioxide Removal.” Nat. Clim. Change. 
+Enhancement for Carbon Dioxide Removal.” *Nature Climate Change* 15 (1):
+59–65.
+[[Fulltext]](https://www.nature.com/articles/s41558-024-02179-9)
 [[Preprint]](https://www.researchsquare.com/article/rs-4124909/v1)
 [[Interactive]](https://carbonplan.org/research/oae-efficiency)
 
@@ -40,22 +82,16 @@ Marine Co2 Removal.” *Limnology and Oceanography Letters* 8 (5): 685–91.
 [[Fulltext]](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lol2.10330)
 
 Jin, Shijian, Michael Tyka, Cristian Rodriguez Martinez, Christopher
-Davis, Christopher Van Arsdale, and Antonio Papania-Davis. 2024.
+Davis, Christopher Van Arsdale, and Antonio Papania-Davis. 2025.
 “Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and
-Waste Concrete Upcycling.” [[Preprint]](https://chemrxiv.org/engage/chemrxiv/article-details/66ccbc76a4e53c4876b0e974)
+Waste Concrete Upcycling.” *ACS Sustainable Chemistry & Engineering* 13
+(4): 1532–43.
+[[Fulltext]](https://pubs.acs.org/doi/10.1021/acssuschemeng.4c07507)
+[[Preprint]](https://chemrxiv.org/engage/chemrxiv/article-details/66ccbc76a4e53c4876b0e974)
 
 Rackley, Steve A, Tingzhen Ming, Wei Li, Michael Tyka, Adrienne Sewel,
 Diarmaid Clery, George Dowson, et al. 2023. “Negative Emissions
 Technologies for Climate Change Mitigation.” Elsevier.
-
-Shaw, Cody, Mallory Ringham, Xi Lu, Brendan Carter, Matthew Eisaman, and
-Mike Tyka. 2022. “Understanding the Kinetics of Electrochemically
-Derived Magnesium Hydroxide for Ocean Alkalinity Enhancement.” In *AGU
-Fall Meeting Abstracts*, 2022:GC32I–0713.
-
-Tyka, Michael, and Mengyang Zhou. 2024. “Differences in Calculated
-Oae-Efficiency Between the Cesm2/Marbl and Ecco-Darwin Circulation
-Models.” *AGU24*.
 
 
 # Protein Structure, Biophysics, Biochemistry
@@ -79,7 +115,7 @@ Casp7 Targets Using Extensive All-Atom Refinement with Rosetta@ Home.”
 DiMaio, Frank, Michael D Tyka, Matthew L Baker, Wah Chiu, and David
 Baker. 2009. “Refinement of Protein Structures into Low-Resolution
 Density Maps Using Rosetta.” 
-[*Journal of Molecular Biology* 392 (1):181–90.] (https://www.sciencedirect.com/science/article/abs/pii/S0022283609008341?via%3Dihub)
+[*Journal of Molecular Biology* 392 (1):181–90.](https://www.sciencedirect.com/science/article/abs/pii/S0022283609008341?via%3Dihub)
 
 Khatib, Firas, Seth Cooper, Michael D Tyka, Kefan Xu, Ilya Makedon,
 Zoran Popović, David Baker, and Foldit Players. 2011. “Algorithm
